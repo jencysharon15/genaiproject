@@ -17,6 +17,7 @@ python-dotenv
 
 Installation:
 pip install -r requirements.txt
+
 streamlit run app1.py
 
 Deployment:
