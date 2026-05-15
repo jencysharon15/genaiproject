@@ -1,0 +1,4 @@
+Demo/
+.env
+__pycache__/
+*.pyc
