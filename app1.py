@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 load_dotenv()
-GROQ_API_KEY = os.getenv("API_KEY")
+GROQ_API_KEY = st.secrets["API_KEY"]
 import streamlit as st
 from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage, AIMessage
