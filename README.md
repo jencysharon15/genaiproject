@@ -1,6 +1,8 @@
 AI Chatbot App:
 A Streamlit-based AI chatbot developed using Python, LangChain, and Groq API. This project allows users to interact with an AI assistant through a clean web interface with real-time responses.
 
+URL:https://genaibyjen.streamlit.app/
+
 Features:
 Real-time AI-generated responses
 Interactive chat interface
